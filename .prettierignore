@@ -1,0 +1,13 @@
+.nuxt/
+.output/
+.husky/
+.github/
+assets/
+content/
+img/
+public/
+dist/
+
+.gitignore
+README.md
+*.json
